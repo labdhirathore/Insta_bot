@@ -8,7 +8,6 @@ time.sleep(5)
 # print(pyautogui.position())
 
 # the instagram is located at x=470, y=586
-
 pyautogui.moveTo(470, 586)
 # pyautogui.scroll(-1200)
 for i in range(5):
